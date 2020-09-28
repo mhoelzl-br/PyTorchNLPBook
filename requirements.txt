@@ -5,6 +5,6 @@ jupyter
 pandas
 seaborn
 scipy
-annoy
+python-annoy
 numpy
 requests
